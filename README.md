@@ -1,6 +1,6 @@
 ## README
 
-This project contains a notebook with an introduction to classes in python. Some concepts are addressed, like attributes, methods and inheritance. You are expected to know how to run Jupyter, Python 3.6 or above is required.
+This project contains a notebook with an introduction to classes in Python. Some concepts are addressed, like attributes, methods and inheritance. You are expected to know how to run Jupyter. Python 3.6 or above is required.
 
 ### Structure
 
@@ -10,4 +10,4 @@ The main files are:
 
 ### Credits
 
-Amos, David. (2021). *Object-Oriented Programming (OOP) in Python 3*, https://realpython.com/python3-object-oriented-programming/
+Amos, David. (2021, May 1). *Object-Oriented Programming (OOP) in Python 3*, Retrieved from https://realpython.com/python3-object-oriented-programming/
